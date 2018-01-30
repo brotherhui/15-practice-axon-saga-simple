@@ -5,7 +5,7 @@ This is the workable version and simplest version. Base on the concept in this v
 
 Thanks to https://github.com/AxonFramework/AxonBank, when you finish my example and then go to see AxonBank, you will understand the concept better.
 Please read Domain Driver Design for Axon
-![Aaron Swartz](https://raw.githubusercontent.com/smshen/MarkdownPhotos/master/Res/test.jpg)
+![Aaron Swartz](https://github.com/brotherhui/15-practice-axon-saga-simple/blob/master/CQRS.jpg?raw=true
 
 # Run it
 1. start the server

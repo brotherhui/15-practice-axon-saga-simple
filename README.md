@@ -1,7 +1,7 @@
 # 15-practice-axon-saga-simple
 axon with in memory db, without rabbitmq or mysql. used saga, h2 and with h2 console enabled
 
-This is the workable version.
+This is the workable version and simplest version. Base on the concept in this version, you will understand axon and CQRS better. Then you can easily enhance it with rabbitmq or kafka.
 
 Thanks to https://github.com/AxonFramework/AxonBank, when you finish my example and then go to see AxonBank, you will understand the concept better.
 Please read Domain Driver Design for Axon

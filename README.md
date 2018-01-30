@@ -11,9 +11,9 @@ Please read Domain Driver Design for Axon
 1. start the server
 2. access http://localhost:8080/h2 for h2 console
    use the enbamded h2 with below information:
-   -     url: jdbc:h2:mem:pocdb
-   -     username: root
-   -     password: 123456
+     url: jdbc:h2:mem:pocdb
+     username: root
+     password: 123456
 3. access http://localhost:8080/account/create/AC1001/500 to create first account
 4. access http://localhost:8080/account/create/AC1002/550 to create second account
 5. access http://localhost:8080/transfer/AC1001/AC1002/150 to transfer money

@@ -19,3 +19,6 @@ Please read Domain Driver Design for Axon
 5. access http://localhost:8080/transfer/AC1001/AC1002/150 to transfer money
 
 In the same time, please moniter h2 console for the data change. You may understand better then
+
+# Important part
+Each command is asign to an aggregrate id. that is the connector for command and aggregrate.
